@@ -1,6 +1,7 @@
 /**
- * OOPSBannerApp
+ * OOPS Banner App
  * UC1: Print OOPS to Console
+ *
  * @author Ananth
  * @version 1.0
  */
